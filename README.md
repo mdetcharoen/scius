@@ -10,13 +10,13 @@
 
 The steps of PCR can be divided into three main stages:
 
-1. Denaturation: During this step, the DNA template is heated to a high temperature (usually around 95°C) to separate the two strands of the double helix.
+1. Denaturation: During this step, the DNA template is heated to a high temperature (usually around 95 °C) to separate the two strands of the double helix.
 
-2. Annealing: The temperature is then lowered to allow short pieces of DNA called primers to bind to specific sequences on the template DNA. These primers serve as a starting point for the synthesis of new DNA strands.
+2. Annealing: The temperature is then lowered (50-65 °C) to allow short pieces of DNA called primers to bind to specific sequences on the template DNA. These primers serve as a starting point for the synthesis of new DNA strands.
 
-3. Extension: The temperature is raised again to allow the enzyme DNA polymerase to synthesize new DNA strands using the primers as a starting point. The DNA polymerase synthesizes the new strands in the 5' to 3' direction, adding nucleotides one at a time to the growing strand. This process is repeated many times to amplify the desired DNA or RNA sequence.
+3. Extension: The temperature is raised again (72 °C) to allow the enzyme DNA polymerase to synthesize new DNA strands using the primers as a starting point. The DNA polymerase synthesizes the new strands in the 5' to 3' direction, adding nucleotides one at a time to the growing strand. This process is repeated many times to amplify the desired DNA or RNA sequence.
 
-During the course of PCR, the amount of DNA or RNA in the sample increases exponentially, resulting in a large number of copies of the target sequence.
+During the course of PCR, the amount of DNA in the sample increases exponentially, resulting in a large number of copies of the target sequence.
 
 https://www.youtube.com/watch?v=iQsu3Kz9NYo
 
