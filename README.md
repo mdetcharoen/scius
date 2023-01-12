@@ -1,6 +1,6 @@
 # เอกสารประกอบ
 
-มีคำถาม ให้ส่งคำถามมาที่ twitter [@dmatted](https://twitter.com/dmatted)
+มีคำถาม ให้ส่งคำถามมาที่ twitter [@mdetcharoen](https://twitter.com/mdetcharoen)
 
 1. https://github.com/mdetcharoen/scius/blob/main/techniques.pdf
 2. https://github.com/mdetcharoen/scius/blob/main/techniques_transcript.pdf
